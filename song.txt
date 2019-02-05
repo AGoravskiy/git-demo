@@ -5,8 +5,4 @@
 55555555555555
 66666666666666
 
-feature
-
-feature2
-
-feature3
+feature1
